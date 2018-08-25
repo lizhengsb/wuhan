@@ -5,7 +5,8 @@ public class a {
 		MD5 d=new MD5();
 		String b="ddd";
 		byte[] a=b.getBytes();
-		
+		//李政
+		System.out.println("a");
 		System.out.println(d.getMD5(a));
 	}
 }
